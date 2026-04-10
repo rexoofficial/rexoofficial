@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">My nickname is rexo and I am a very beginner</p>
+<p align="left">My nickname is rexo and I am a very beginner.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About me:</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h6 align="left">P.S. <br>I work on Linux (Cashy OS)</h6>
+<h6 align="left">P.S. <br>I work on Linux (Cashy OS).</h6>
 
 ###
 
